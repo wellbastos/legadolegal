@@ -1,0 +1,4 @@
+connect --locator=localhost[9980]
+list members
+show missing-disk-stores
+exit
